@@ -219,3 +219,4 @@ Makefile.in
 TAGS
 THANKS
 THANKS-to-translators
+*.wasm.vscode
